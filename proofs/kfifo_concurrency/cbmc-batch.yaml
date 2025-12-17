@@ -1,0 +1,5 @@
+proof:
+  harness: kfifo_con_harness.c
+  languages:
+    - c
+  expected-result: success
